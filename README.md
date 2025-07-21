@@ -1,14 +1,57 @@
-# Password Generator
+# 🔐 Password Generator – React App
 
-This project provides a simple password generator tool. It allows users to generate strong, random passwords with a variety of options including length, and character types (uppercase, lowercase, digits, special characters).
+A **responsive and secure password generator** built using **React.js**. This app allows users to create strong, customizable passwords with options like length, character types, and clipboard copy support.
 
-## Features
-- Generate random passwords with customizable length
-- Choose which character types to include in the password
-- Easy-to-use interface
+---
 
-## Installation
-Clone the repository:
+## 🧩 Features
+
+- 🔢 Adjustable Password Length
+- 🔠 Include Uppercase, Lowercase, Numbers, Symbols
+- 📋 Copy to Clipboard Functionality
+- 🔒 Strong Password Indicator (optional enhancement)
+- 📱 Fully Responsive and User-Friendly Interface
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology     | Description                          |
+|----------------|--------------------------------------|
+| **React.js**   | Frontend framework                   |
+| **Tailwind CSS** | Styling and layout (edit if different) |
+| **JavaScript** | Logic and state management           |
+| **Vite**       | Lightning-fast dev build tool        |
+
+---
+
+## 📁 Project Structure
+
+Password_Generator/
+├── public/
+├── src/
+│ ├── components/ # Custom UI components
+│ ├── App.js # Root component
+│ └── index.js # Entry point
+├── package.json
+└── README.md
+
+
+---
+
+## 💻 Getting Started
+
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/adityajagtap2704/Password_Generator.git
+cd Password_Generator
+```
+### 2. Install Dependencies
+```bash
+npm install
+```
+### 3. Start Development Server
+```bash
+npm run dev
+```
