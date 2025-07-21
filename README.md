@@ -25,20 +25,6 @@ A **responsive and secure password generator** built using **React.js**. This ap
 
 ---
 
-## 📁 Project Structure
-
-Password_Generator/
-├── public/
-├── src/
-│ ├── components/ # Custom UI components
-│ ├── App.js # Root component
-│ └── index.js # Entry point
-├── package.json
-└── README.md
-
-
----
-
 ## 💻 Getting Started
 
 ### 1. Clone the Repository
